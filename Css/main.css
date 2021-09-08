@@ -35,11 +35,15 @@ h5 {
 }
 
 h1 {
-  color: #508FEC;
+  color: black;
 }
 
 p {
-  color: #508FEC;
+  color: black;
+}
+
+a {
+  color: black;
 }
 
 .py-100 {
@@ -54,6 +58,7 @@ p {
 .imagenFondoIndex {
   background-image: url(../Imagenes/Farmaceutico1-1200x801.jpg);
   background-size: cover;
+  height: auto;
   background-position: center;
   background-repeat: no-repeat;
 }
