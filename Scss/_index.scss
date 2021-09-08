@@ -1,0 +1,53 @@
+
+.color-menu{
+    background-color: $color-menu;
+  }
+h1 {
+    color: #03989e;
+}
+p{
+    color: #03989e;
+}
+.py-100{
+    padding-top: 300px;
+    padding-bottom: 100px;
+}
+  
+.imagenFondoIndex{
+    background-image: url(../Imagenes/Farmaceutico1-1200x801.jpg);
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+}
+.sectionImagen1{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.imagen1{
+    background-image: url(/Imagenes/Farmaceutico1-1200x801.jpg);
+    position:relative;
+    
+    .textoImagen1{
+        text-align: left;
+        padding: 50px 5;
+
+    }
+}
+
+.seccion1{
+
+  
+
+    .nuevaImagen{ 
+        height: 100%;
+        width: auto;
+        background-image:url(../Imagenes/imagensection2.png);
+
+        .textoParrafo{
+            font-size: 23px;
+            color: aliceblue;
+        }
+    }
+}

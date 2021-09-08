@@ -1,0 +1,37 @@
+.foto1Index {
+  grid-area: foto1Index;
+  background-image: url(https://cdn.trendhunterstatic.com/thumbs/luxury-drinks.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.texto1Index {
+  grid-area: texto1Index;
+  background-color: rgba(0, 19, 8, 0.678);
+  background-position: center;
+  background-size: cover;
+}
+
+.foto2Index {
+  grid-area: foto2Index;
+  background-image: url(https://i.pinimg.com/originals/46/8c/61/468c61ea235dd7efb79e9e8778664817.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.texto2Index {
+  grid-area: texto2Index;
+  background-color: rgba(0, 19, 8, 0.678);
+  background-position: center;
+  background-size: cover;
+}
+
+@media only screen and (max-width: 567px) {
+  .gridIndex {
+    display: block;
+  }
+
+  .gridGarnish {
+    display: block;
+  }
+}
