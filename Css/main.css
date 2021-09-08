@@ -35,16 +35,20 @@ h5 {
 }
 
 h1 {
-  color: #03989e;
+  color: #508FEC;
 }
 
 p {
-  color: #03989e;
+  color: #508FEC;
 }
 
 .py-100 {
   padding-top: 300px;
   padding-bottom: 100px;
+}
+
+.color-secundario {
+  color: #ffffff;
 }
 
 .imagenFondoIndex {
@@ -108,4 +112,9 @@ h2 {
       -ms-flex-pack: center;
           justify-content: center;
   color: #508FEC;
+}
+
+.contenedor {
+  margin: 50px;
+  margin-bottom: 150px;
 }
