@@ -46,6 +46,10 @@ a {
   color: black;
 }
 
+.color {
+  color: #03989e;
+}
+
 .py-100 {
   padding-top: 300px;
   padding-bottom: 100px;
