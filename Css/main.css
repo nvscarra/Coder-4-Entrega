@@ -59,6 +59,7 @@ a {
   background-image: url(../Imagenes/Farmaceutico1-1200x801.jpg);
   background-size: cover;
   height: auto;
+  width: 100%;
   background-position: center;
   background-repeat: no-repeat;
 }
